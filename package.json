@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "a cli application to help js developers work easier with git",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dev-Addict/git-helper.git"
@@ -23,15 +21,7 @@
   },
   "homepage": "https://github.com/Dev-Addict/git-helper#readme",
   "dependencies": {
-    "@octokit/rest": "^18.0.6",
     "chalk": "^4.1.0",
-    "clear": "^0.1.0",
-    "clui": "^0.3.6",
-    "configstore": "^5.0.1",
-    "figlet": "^1.5.0",
-    "inquirer": "^7.3.3",
-    "minimist": "^1.2.5",
-    "simple-git": "^2.20.1",
-    "touch": "^3.1.0"
+    "figlet": "^1.5.0"
   }
 }
